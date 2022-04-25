@@ -1,5 +1,4 @@
 data/*.html
 venv
+service
 .idea
-pokemons-demo-bf0924acbe96.json
-pokemon_services_data_secret.py
